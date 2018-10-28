@@ -1,0 +1,12 @@
+.separator{
+    border-bottom: solid #BBB 1px;
+}
+
+.bubble{
+    margin: 3% 5%;
+    padding:3%;
+    background-color: #e6ffff;
+    border: 2px solid #00e6e6;
+    border-radius: 30px;
+        
+}
